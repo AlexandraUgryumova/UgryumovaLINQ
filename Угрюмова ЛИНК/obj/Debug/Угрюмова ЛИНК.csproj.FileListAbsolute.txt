@@ -1,0 +1,10 @@
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова ЛИНК\bin\Debug\Угрюмова ЛИНК.exe.config
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова ЛИНК\bin\Debug\Угрюмова ЛИНК.exe
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова ЛИНК\bin\Debug\Угрюмова ЛИНК.pdb
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова ЛИНК\obj\Debug\Угрюмова ЛИНК.csproj.AssemblyReference.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова ЛИНК\obj\Debug\Угрюмова_ЛИНК.Form1.resources
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова ЛИНК\obj\Debug\Угрюмова_ЛИНК.Properties.Resources.resources
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова ЛИНК\obj\Debug\Угрюмова ЛИНК.csproj.GenerateResource.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова ЛИНК\obj\Debug\Угрюмова ЛИНК.csproj.CoreCompileInputs.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова ЛИНК\obj\Debug\Угрюмова ЛИНК.exe
+C:\Users\305-12\Desktop\Угрюмова Пр-21\c#\Угрюмова ЛИНК\obj\Debug\Угрюмова ЛИНК.pdb
